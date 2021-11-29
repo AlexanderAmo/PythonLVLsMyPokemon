@@ -1,0 +1,12 @@
+left trigger: 1
+right trigger: 2
+   up: w
+ down: s
+ left: a
+right: d
+
+B button: x
+A button: z
+
+select: q 
+start: e
